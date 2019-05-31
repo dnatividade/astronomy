@@ -1,5 +1,6 @@
 # Astronomy
-### Astronomy curiosities
+Astronomy curiosities
+
 ---
 
 ## Solar system album
@@ -7,7 +8,7 @@ Planets of our solar system
 
 ---
 
-## Telluric planets
+### Telluric planets
 ### Mercury
 ![alt text](https://github.com/dnatividade/astronomy/blob/master/Images/01-mercury%20-%20150716080034_planets_1.jpg)
 
@@ -22,7 +23,7 @@ Planets of our solar system
 
 ---
 
-## Giant planets
+### Giant planets
 ### Jupiter
 ![alt text](https://github.com/dnatividade/astronomy/blob/master/Images/05-jupiter%20-%20150716080035_planets_5.jpg)
 
@@ -37,7 +38,7 @@ Planets of our solar system
 
 ---
 
-## Dwarf planets
+### Dwarf planets
 ### Pluto (dwarf planet)
 ![alt text](https://github.com/dnatividade/astronomy/blob/master/Images/09-pluto%20-%20150716080036_planets_9.jpg)
 
