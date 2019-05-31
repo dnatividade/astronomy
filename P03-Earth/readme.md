@@ -26,8 +26,12 @@ SOURCE: https://pt.wikipedia.org/wiki/Terra
 #### Earth from *Cassini*, in Saturn orbit, at a distance of 50 billion km (~ 1.3 light-hours)
 ![pale blue dot cassini](https://github.com/dnatividade/astronomy/blob/master/Images/palido_ponto_azul%20-%20CASSINI.jpg)
 
-#### Earth from *Apollo 17*
-![earth from apollo 17](https://github.com/dnatividade/astronomy/blob/master/Images/03-earth%20-%20The_Earth_seen_from_Apollo_17.jpg)
+---
 
 #### Earth from Moon
 ![earth from moon](https://github.com/dnatividade/astronomy/blob/master/Images/03-earth%20-%20150716080035_planets_3.jpg)
+
+#### Earth from *Apollo 17*
+![earth from apollo 17](https://github.com/dnatividade/astronomy/blob/master/Images/03-earth%20-%20The_Earth_seen_from_Apollo_17.jpg)
+
+---
