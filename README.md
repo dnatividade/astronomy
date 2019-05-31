@@ -4,7 +4,7 @@ Astronomy curiosities
 ---
 
 ## Solar system album
-Planets of our solar system
+In our solar system there are three types of planets: telluric, giant and dwarf.
 
 ---
 
