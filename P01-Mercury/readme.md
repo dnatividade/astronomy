@@ -9,3 +9,6 @@
 | `Orbital period` | 88 days |
 | `Surface area` | 74,800,000 km² |
 | `Mass` | 3.285 × 10^23 kg |
+| `Satellites` | none |
+
+SOURCE: https://en.wikipedia.org/wiki/Mercury_(planet)
