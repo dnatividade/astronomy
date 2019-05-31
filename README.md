@@ -5,6 +5,9 @@
 ## Solar system album
 Planets of our solar system
 
+---
+
+## Telluric planets
 ### Mercury
 ![alt text](https://github.com/dnatividade/astronomy/blob/master/Images/01-mercury%20-%20150716080034_planets_1.jpg)
 
@@ -17,6 +20,9 @@ Planets of our solar system
 ### Mars
 ![alt text](https://github.com/dnatividade/astronomy/blob/master/Images/04-mars%20-%20150716082356_planets-2a.jpg)
 
+---
+
+## Giant planets
 ### Jupiter
 ![alt text](https://github.com/dnatividade/astronomy/blob/master/Images/05-jupiter%20-%20150716080035_planets_5.jpg)
 
@@ -29,5 +35,10 @@ Planets of our solar system
 ### Neptune
 ![alt text](https://github.com/dnatividade/astronomy/blob/master/Images/08-neptune%20-%20150716080036_planets_8.jpg)
 
+---
+
+## Dwarf planets
 ### Pluto (dwarf planet)
 ![alt text](https://github.com/dnatividade/astronomy/blob/master/Images/09-pluto%20-%20150716080036_planets_9.jpg)
+
+
