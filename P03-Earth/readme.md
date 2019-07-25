@@ -16,14 +16,14 @@ SOURCE: https://pt.wikipedia.org/wiki/Terra
 ---
 
 ## Pale Blue Dot
-#### Earth from *Voyager 1* at a distance of 50 billion km (~ 5.5 light-hours)
+#### Earth from *Voyager 1* at a distance of 6 billion km (~ 5.5 light-hours)
 ![pale blue dot](https://github.com/dnatividade/astronomy/blob/master/Images/Pale_Blue_Dot.png)
 
 ![pale blue dot](https://github.com/dnatividade/astronomy/blob/master/Images/palido_ponto_azul.jpg)
 
 ---
 
-#### Earth from *Cassini*, in Saturn orbit, at a distance of 50 billion km (~ 1.3 light-hours)
+#### Earth from *Cassini*, in Saturn orbit, at a distance of 1.4 billion km (~ 1.3 light-hours)
 ![pale blue dot cassini](https://github.com/dnatividade/astronomy/blob/master/Images/palido_ponto_azul%20-%20CASSINI.jpg)
 
 ---
