@@ -1,4 +1,4 @@
-# Astronomy
+# Astronomy ![docs-space](https://img.shields.io/badge/docs-space-blue)
 Astronomy curiosities
 
 ---
