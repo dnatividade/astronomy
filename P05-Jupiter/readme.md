@@ -1,5 +1,5 @@
 # Jupiter ![status](https://img.shields.io/readthedocs/pip.svg)
-### Mercury sumary ###
+### Jupiter sumary ###
 
 | Feature | Value |
 | --- | --- |
